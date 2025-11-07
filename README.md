@@ -1,2 +1,3 @@
 # technical-demo
-This is my thirrd get repsitory
+This is my third get repsitory
+Author-harshit yadav
